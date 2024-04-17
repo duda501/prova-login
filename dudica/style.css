@@ -1,0 +1,15 @@
+.Quadrado{
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+    background-color: black;
+}
+.dudicalogin{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    text-align: center;
+    color: azure;
+    gap: 40px;
+}
